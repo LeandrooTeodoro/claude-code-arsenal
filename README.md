@@ -23,13 +23,16 @@ Coleção das skills, agentes e comandos que uso no Claude Code, reunidos num s�
 | [`vercel-skills/`](vercel-skills/) | 1 | — | — | [vercel-labs/skills](https://github.com/vercel-labs/skills) (Vercel) | MIT |
 | [`leandro/`](leandro/) | 4 | — | — | Minhas skills próprias | MIT |
 
-## Fora do repositório (licença não permite redistribuir)
+## Também uso (só link, direto do repositório original)
 
-Estas eu também uso, mas a licença não permite cópia. Instale pela fonte:
+Estas não foram copiadas porque a licença não permite redistribuir. Acesse e instale pela fonte original:
 
-- **Blotato** (8 skills): [Blotato-Inc/blotato-skills](https://github.com/Blotato-Inc/blotato-skills). O repositório não tem licença pública.
-- **Skills da Anthropic no app Claude** (docx, pdf, pptx, xlsx, skill-creator, built-in-browser etc.): proprietárias, com todos os direitos reservados pela Anthropic. Já vêm no app Claude.
-- **Skills nativas do Claude Code** (code-review, simplify, loop, schedule etc.): já vêm com o Claude Code.
+| Coleção | Itens | Repositório original | Licença |
+|---|---:|---|---|
+| Blotato | 8 skills | [github.com/Blotato-Inc/blotato-skills](https://github.com/Blotato-Inc/blotato-skills) | Sem licença pública |
+| Anthropic (docx, pdf, pptx, xlsx, skill-creator, doc-coauthoring) | 6 skills | [github.com/anthropics/skills](https://github.com/anthropics/skills) | Source-available, direitos reservados |
+| Anthropic (built-in-browser, chrome-browser, computer-use, deep-research, docs, google-workspace, import-memory, morning) | 8 skills | Já vêm no app [Claude](https://claude.ai/download) | Proprietária |
+| Nativas do Claude Code (code-review, simplify, loop, schedule etc.) | 16 skills | [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code) | Já vêm com o Claude Code |
 
 ## Como usar
 
